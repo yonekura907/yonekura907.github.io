@@ -1,0 +1,4 @@
+baseURL = "http://yonekura907.github.io/"
+languageCode = "en-us"
+title = "Akio Yonekura"
+theme = "ananke"
